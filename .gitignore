@@ -1,0 +1,5 @@
+docker-compose.yml
+.DS_Store
+
+deira/currency/bcb_download/*
+deira/currency/__pycache__/*
